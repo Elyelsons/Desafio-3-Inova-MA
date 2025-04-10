@@ -1,5 +1,5 @@
-# desafio03final
-# 📝 Formulário com Validação, Dark Mode e Armazenamento Local
+# desafio03
+# 📝 Formulário com Validação
 
 Este projeto é um formulário moderno e funcional, com foco em boas práticas de front-end, desenvolvido com **HTML**, **Tailwind CSS** e **JavaScript**. Inclui uma **tela de login**, **validação de dados**, **modo escuro**, e **armazenamento com localStorage**.
 
